@@ -1,6 +1,7 @@
 # CanadaRentalMarket
 Identified Rental Market Trend after pandemic. Extracted and examined results collected from a credible source. Excel has been used to clean and organize the dataset. Designed interactive Power BI dashboard describing Average Vacancy Rate, Average Rent.
 
+```
 SELECT * 
 FROM [Portfolio Project]..['Table 1#0$']
 
@@ -125,3 +126,4 @@ WHERE Centre = 'Canada'
 
 SELECT * 
 FROM Canada_Average_Rent
+```
